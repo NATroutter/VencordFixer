@@ -4,7 +4,7 @@ This is a simple script to make repairing Vencord installation easier. The code 
 # Menu navigation/usage
 **UP:** Arrow Up, W, PageUp
 
-**DOWN:** Arrow Arrow Down, S, PageDown
+**DOWN:** Arrow Down, S, PageDown
 
 **SELECT:** Enter, Space
 
